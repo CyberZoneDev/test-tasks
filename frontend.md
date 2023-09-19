@@ -1,2 +1,2 @@
 # Тестовое задание Front-end разработчик
-Писать сюда -> vk.com/ankodo
+Писать сюда -> (vk.com/ankodo)[vk.com/ankodo]
