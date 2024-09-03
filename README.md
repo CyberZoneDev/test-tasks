@@ -3,6 +3,7 @@
 *Тестовые задания будут дополняться, если тут нет вашего направления обратитесь к happykust в [ВК](https://vk.com/happykust) или [TG](https://t.me/happykust)*
 
 * `Back-end` разработка ([подробно](/backend.md))
+* `Back-end Golang` разработка ([подробно](/backend-golang.md))
 * `Front-end` разработка ([подробно](/frontend.md))
 * `Fullstack` разработка ([подробно](/fullstack.md))
 
