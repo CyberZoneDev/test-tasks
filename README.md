@@ -4,6 +4,7 @@
 
 * `Back-end` разработка ([подробно](/backend.md))
 * `Back-end Golang` разработка ([подробно](/backend-golang.md))
+* `.NET` разработка ([подробно](/dotnet.md))
 * `Front-end` разработка ([подробно](/frontend.md))
 
 ## Вопросы
